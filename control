@@ -1,0 +1,9 @@
+Package: com.withoutcoffee.appleidpasswordfiller
+Name: AppleIdPasswordFiller
+Depends: mobilesubstrate, preferenceloader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Autofill your apple id passwords. iOS 11.3.1 on iPhone X only.
+Maintainer: withoutCoffee
+Author: withoutCoffee
+Section: Tweaks
